@@ -1,0 +1,9 @@
+{
+  "name": "@copofe/eslint-config-monorepo",
+  "version": "0.0.0",
+  "keywords": [],
+  "author": "copofe",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
