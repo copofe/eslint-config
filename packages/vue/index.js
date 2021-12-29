@@ -9,6 +9,7 @@ module.exports = {
     },
   ],
   extends: [
+    '@copofe/eslint-config-typescript',
     'plugin:vue/vue3-recommended',
   ],
   rules: {
