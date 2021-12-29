@@ -1,6 +1,6 @@
 {
   "name": "@copofe/eslint-config-vue",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "copofe",
   "peerDependencies": {
     "eslint": ">=7.4.0"
@@ -9,7 +9,7 @@
     "eslint": "^8.5.0"
   },
   "dependencies": {
-    "@copofe/eslint-config-typescript": "^0.0.3",
+    "@copofe/eslint-config-typescript": "^0.0.4",
     "eslint-plugin-vue": "^8.2.0"
   },
   "publishConfig": {
