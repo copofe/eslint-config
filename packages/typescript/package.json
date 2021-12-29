@@ -1,6 +1,6 @@
 {
   "name": "@copofe/eslint-config-typescript",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "author": "copofe",
   "publishConfig": {
     "access": "public"
@@ -10,7 +10,7 @@
     "typescript": ">=3.9"
   },
   "dependencies": {
-    "@copofe/eslint-config-basic": "^0.0.6",
+    "@copofe/eslint-config-basic": "^0.0.7",
     "@typescript-eslint/parser": "^5.8.1",
     "eslint-config-airbnb-typescript": "^16.1.0"
   },
