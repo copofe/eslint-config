@@ -10,6 +10,8 @@
     "typescript": ">=3.9"
   },
   "dependencies": {
+    "@copofe/eslint-config-basic": "^0.0.6",
+    "@typescript-eslint/parser": "^5.8.1",
     "eslint-config-airbnb-typescript": "^16.1.0"
   },
   "devDependencies": {

@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['airbnb-typescript'],
+  extends: ['@copofe/eslint-config-basic', 'airbnb-typescript'],
 }
