@@ -8,5 +8,5 @@ module.exports = {
     'airbnb-base',
     'plugin:import/recommended',
     'plugin:eslint-comments/recommended'
-  ]
+  ],
 }
