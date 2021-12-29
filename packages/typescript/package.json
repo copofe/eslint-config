@@ -10,8 +10,7 @@
     "typescript": ">=3.9"
   },
   "dependencies": {
-    "@typescript-eslint/parser": "^5.8.1",
-    "eslint-config-airbnb-typescript-prettier": "^5.0.0"
+    "eslint-config-airbnb-typescript": "^16.1.0"
   },
   "devDependencies": {
     "eslint": "^8.5.0"
