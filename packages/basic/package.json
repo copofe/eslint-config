@@ -1,6 +1,6 @@
 {
   "name": "@copofe/eslint-config-basic",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "author": "copofe <me@shinji.me>",
   "dependencies": {
     "eslint-config-airbnb-base": "^15.0.0",
