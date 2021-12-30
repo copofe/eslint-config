@@ -1,13 +1,13 @@
 {
-  "name": "@copofe/eslint-config-vue",
+  "name": "@copofe/eslint-config",
   "version": "0.0.9",
   "author": "copofe <me@shinji.me>",
+  "homepage": "https://github.com/copofe/eslint-config",
   "peerDependencies": {
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@copofe/eslint-config-typescript": "^0.0.9",
-    "eslint-plugin-vue": "^8.2.0"
+    "@copofe/eslint-config-vue": "^0.0.9"
   },
   "devDependencies": {
     "eslint": "^8.5.0"
