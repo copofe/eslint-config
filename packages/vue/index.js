@@ -14,5 +14,7 @@ module.exports = {
   ],
   rules: {
     'vue/no-v-html': 'off',
+    'vue/max-attributes-per-line': 'off',
+    'vue/multi-word-component-names': 'off',
   },
 };
