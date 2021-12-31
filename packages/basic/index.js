@@ -10,6 +10,7 @@ module.exports = {
     'plugin:eslint-comments/recommended',
   ],
   rules: {
+    // import
     'import/no-unresolved': 'off',
     'import/extensions': ['error', {
       js: 'never',
@@ -17,5 +18,8 @@ module.exports = {
       ts: 'never',
       tsx: 'never',
     }],
+
+    // comments
+    'eslint-comments/disable-enable-pair': 'off',
   },
 };
