@@ -13,8 +13,12 @@ module.exports = {
     '@copofe/eslint-config-typescript',
   ],
   rules: {
-    'vue/no-v-html': 'off',
+    'vue/component-tags-order': ['warn', {
+      order: ['script', 'template', 'style'],
+    }],
     'vue/max-attributes-per-line': 'off',
     'vue/multi-word-component-names': 'off',
+    'vue/no-v-html': 'off',
+    'vue/v-on-event-hyphenation': 'off',
   },
 };

@@ -9,25 +9,14 @@ module.exports = {
     'plugin:import/recommended',
     'plugin:eslint-comments/recommended',
   ],
-  settings: {
-    'import/resolver': {
-      node: { extensions: ['.js', '.mjs', '.ts', '.d.ts'] },
-    },
-  },
   rules: {
     // import
     'import/no-unresolved': 'off',
-    'import/extensions': ['error', 'ignorePackages',
-      {
-        js: 'never',
-        mjs: 'never',
-        jsx: 'never',
-        ts: 'never',
-        tsx: 'never',
-      },
-    ],
+    'import/extensions': 'off',
 
     // comments
     'eslint-comments/disable-enable-pair': 'off',
+
+    'no-console': ['warn', { allow: ['warn', 'error'] }],
   },
 };
