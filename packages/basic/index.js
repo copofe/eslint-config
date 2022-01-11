@@ -18,5 +18,8 @@ module.exports = {
     'eslint-comments/disable-enable-pair': 'off',
 
     'no-console': ['warn', { allow: ['warn', 'error'] }],
+    'no-debugger': 'warn',
+    'no-spaced-func': 'off', // deprecated
+    'func-call-spacing': 'off', // format by prettier
   },
 };
