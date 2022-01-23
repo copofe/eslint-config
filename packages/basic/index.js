@@ -21,5 +21,7 @@ module.exports = {
     'no-debugger': 'warn',
     'no-spaced-func': 'off', // deprecated
     'func-call-spacing': 'off', // format by prettier
+    'no-unused-expressions': ['error', { allowTernary: true, allowShortCircuit: true }],
+    'arrow-body-style': 'off',
   },
 };
