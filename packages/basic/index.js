@@ -24,6 +24,7 @@ module.exports = {
     'no-unused-expressions': ['error', { allowTernary: true, allowShortCircuit: true }],
     'arrow-body-style': 'off',
 
-    'no-underscore-dangle:': 'off',
+    'no-shadow': 'off',
+    'no-underscore-dangle': 'off',
   },
 };
