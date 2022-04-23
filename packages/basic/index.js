@@ -23,5 +23,7 @@ module.exports = {
     'func-call-spacing': 'off', // format by prettier
     'no-unused-expressions': ['error', { allowTernary: true, allowShortCircuit: true }],
     'arrow-body-style': 'off',
+
+    'no-underscore-dangle:': 'off',
   },
 };

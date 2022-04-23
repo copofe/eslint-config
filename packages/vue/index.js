@@ -28,6 +28,6 @@ module.exports = {
     defineProps: 'readonly',
     withDefaults: 'readonly',
     defineEmits: 'readonly',
-    defineExpose: 'readonly'
+    defineExpose: 'readonly',
   },
 };
