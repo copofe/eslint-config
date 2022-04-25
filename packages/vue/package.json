@@ -1,12 +1,12 @@
 {
   "name": "@copofe/eslint-config-vue",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "author": "copofe <me@shinji.me>",
   "peerDependencies": {
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@copofe/eslint-config-typescript": "^0.1.11",
+    "@copofe/eslint-config-typescript": "^0.1.12",
     "eslint-plugin-vue": "^8.2.0"
   },
   "devDependencies": {
