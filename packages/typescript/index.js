@@ -5,5 +5,6 @@ module.exports = {
   ],
   rules: {
     '@typescript-eslint/no-shadow': 'error',
+    '@typescript-eslint/ban-ts-comment': 'off',
   },
 };
