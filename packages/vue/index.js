@@ -23,10 +23,10 @@ module.exports = {
     'vue/max-len': ['error', { code: 100 }],
     'vue/max-attributes-per-line': ['error', {
       singleline: {
-        max: 4,
+        max: 3,
       },
       multiline: {
-        max: 4,
+        max: 1,
       },
     }],
 
