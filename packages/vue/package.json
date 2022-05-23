@@ -1,6 +1,6 @@
 {
   "name": "@copofe/eslint-config-vue",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "author": "copofe <me@shinji.me>",
   "peerDependencies": {
     "eslint": ">=7.4.0"
