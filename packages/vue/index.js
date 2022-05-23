@@ -16,11 +16,19 @@ module.exports = {
     'vue/component-tags-order': ['warn', {
       order: ['script', 'template', 'style'],
     }],
-    'vue/max-attributes-per-line': 'off',
     'vue/multi-word-component-names': 'off',
     'vue/no-v-html': 'off',
     'vue/singleline-html-element-content-newline': 'off',
     'vue/v-on-event-hyphenation': 'off',
+    'vue/max-len': ['error', { code: 100 }],
+    'vue/max-attributes-per-line': ['error', {
+      singleline: {
+        max: 4,
+      },
+      multiline: {
+        max: 4,
+      },
+    }],
 
     'import/first': 'off', // bacause of vue3 support <script setup> used alongside normal <script>
   },
