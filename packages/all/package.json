@@ -1,13 +1,13 @@
 {
   "name": "@copofe/eslint-config",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "author": "copofe <me@shinji.me>",
   "homepage": "https://github.com/copofe/eslint-config",
   "peerDependencies": {
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@copofe/eslint-config-vue": "^0.1.14"
+    "@copofe/eslint-config-vue": "^0.1.15"
   },
   "devDependencies": {
     "eslint": "^8.5.0"
