@@ -4,6 +4,8 @@ module.exports = {
       files: ['*.vue'],
       parser: 'vue-eslint-parser',
       parserOptions: {
+        ecmaVersion: 'latest',
+        sourceType: 'module',
         parser: '@typescript-eslint/parser',
       },
     },
