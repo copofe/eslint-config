@@ -1,6 +1,6 @@
 {
   "name": "@copofe/eslint-config-typescript",
-  "version": "0.1.12",
+  "version": "0.1.16",
   "author": "copofe <me@shinji.me>",
   "publishConfig": {
     "access": "public"
