@@ -7,7 +7,12 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@copofe/eslint-config-vue": "^0.1.17"
+    "@copofe/eslint-config-vue": "^0.1.17",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-import": "^2.25.3",
+    "@typescript-eslint/eslint-plugin": "^5.9.0",
+    "@typescript-eslint/parser": "^5.9.0"
   },
   "devDependencies": {
     "eslint": "^8.5.0"
