@@ -1,6 +1,6 @@
 {
   "name": "@copofe/eslint-config",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "author": "copofe <me@shinji.me>",
   "homepage": "https://github.com/copofe/eslint-config",
   "peerDependencies": {
@@ -8,11 +8,11 @@
   },
   "dependencies": {
     "@copofe/eslint-config-vue": "^0.1.17",
+    "@typescript-eslint/eslint-plugin": "^5.9.0",
+    "@typescript-eslint/parser": "^5.9.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-eslint-comments": "^3.2.0",
-    "eslint-plugin-import": "^2.25.3",
-    "@typescript-eslint/eslint-plugin": "^5.9.0",
-    "@typescript-eslint/parser": "^5.9.0"
+    "eslint-plugin-import": "^2.25.3"
   },
   "devDependencies": {
     "eslint": "^8.5.0"
