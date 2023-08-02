@@ -1,13 +1,13 @@
 {
   "name": "@copofe/eslint-config",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "author": "copofe <me@shinji.me>",
   "homepage": "https://github.com/copofe/eslint-config",
   "peerDependencies": {
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@copofe/eslint-config-vue": "^0.1.19",
+    "@copofe/eslint-config-vue": "^0.1.20",
     "@typescript-eslint/eslint-plugin": "^5.9.0",
     "@typescript-eslint/parser": "^5.9.0",
     "eslint-config-airbnb-base": "^15.0.0",
