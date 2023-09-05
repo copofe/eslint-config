@@ -1,13 +1,13 @@
 {
   "name": "@copofe/eslint-config-vue",
-  "version": "0.1.20",
+  "version": "0.2.0",
   "author": "copofe <me@shinji.me>",
   "peerDependencies": {
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@copofe/eslint-config-basic": "^0.1.11",
-    "@copofe/eslint-config-typescript": "^0.1.17",
+    "@copofe/eslint-config-basic": "^0.2.0",
+    "@copofe/eslint-config-typescript": "^0.2.0",
     "@typescript-eslint/eslint-plugin": "^6.6.0",
     "@typescript-eslint/parser": "^6.6.0",
     "eslint-plugin-vue": "^9.17.0"
