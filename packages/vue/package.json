@@ -8,12 +8,12 @@
   "dependencies": {
     "@copofe/eslint-config-basic": "^0.1.11",
     "@copofe/eslint-config-typescript": "^0.1.17",
-    "@typescript-eslint/eslint-plugin": "^5.9.0",
-    "@typescript-eslint/parser": "^5.9.0",
-    "eslint-plugin-vue": "^9.16.1"
+    "@typescript-eslint/eslint-plugin": "^6.6.0",
+    "@typescript-eslint/parser": "^6.6.0",
+    "eslint-plugin-vue": "^9.17.0"
   },
   "devDependencies": {
-    "eslint": "^8.6.0"
+    "eslint": "^8.48.0"
   },
   "publishConfig": {
     "access": "public"
